@@ -25,4 +25,4 @@ The SAMD21 QT PY can be  programmed with the qt_py_samd21-usbtmc.uf2 file (drag-
 
 ![picture](https://github.com/charkster/mux_board_v3/blob/main/SAMD21_QT_PY_.jpg)
 
-SAMD21 QT PY and ADG1605BRUZ ICs can be found on Digikey/Mouser.
+SAMD21 QT PY and ADG1606BRUZ ICs can be found on Digikey/Mouser.
