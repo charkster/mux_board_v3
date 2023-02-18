@@ -19,3 +19,6 @@ The SAMD21 QT PY can be  programmed with the qt_py_samd21-usbtmc.uf2 file (drag-
 
 ***IDN?** # returns valid commands and this URL
 
+2x10 2.54mm stacking headers can be found on [Aliexpress](https://github.com/charkster/mux_board_v3/blob/main/2x10stacking_header.jpg)
+
+SAMD21 QT PY and ADG1605BRUZ ICs can be found on Digikey/Mouser.
