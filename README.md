@@ -15,7 +15,7 @@ The SAMD21 QT PY can be  programmed with the qt_py_samd21-usbtmc.uf2 file (drag-
 
 **MUX1:SEL?** # this query returns the presently selected input
 
-***RST** # disables all MUX enables and sets DAC to 0V
+***RST** # disables all MUX enables
 
 ***IDN?** # returns valid commands and this URL
 
